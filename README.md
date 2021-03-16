@@ -6,7 +6,7 @@
 
 언어 : python
 
-필요 모듈 : ./requirment.txt
+필요 모듈 : ./UPBIT/requirment.txt
 
 주식 종류 : 블록체인
 
