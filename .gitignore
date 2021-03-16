@@ -1,0 +1,8 @@
+# 주식 계정이 담긴 폴더
+/UPBIT/config
+
+#캐쉬
+/UPBIT/__pycache__
+
+#vscode
+/UPBIT/.vscode
